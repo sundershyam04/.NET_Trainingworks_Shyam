@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\bin\Debug\19Aug_Practise.exe.config
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\bin\Debug\19Aug_Practise.exe
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\bin\Debug\19Aug_Practise.pdb
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\obj\Debug\19Aug_Practise.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\obj\Debug\19Aug_Practise.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\obj\Debug\19Aug_Practise.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\obj\Debug\19Aug_Practise.exe
+C:\Users\SHYAM SUNDER\source\repos\19Aug_Practise\obj\Debug\19Aug_Practise.pdb
