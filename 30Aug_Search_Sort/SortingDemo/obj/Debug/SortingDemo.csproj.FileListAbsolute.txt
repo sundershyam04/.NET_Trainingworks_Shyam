@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\bin\Debug\SortingDemo.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\bin\Debug\SortingDemo.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\bin\Debug\SortingDemo.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\obj\Debug\SortingDemo.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\obj\Debug\SortingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\obj\Debug\SortingDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\obj\Debug\SortingDemo.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\30Aug\SortingDemo\obj\Debug\SortingDemo.pdb
