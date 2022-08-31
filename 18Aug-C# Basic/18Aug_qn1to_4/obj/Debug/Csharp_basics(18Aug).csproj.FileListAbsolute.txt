@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\bin\Debug\Csharp_basics(18Aug).exe.config
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\bin\Debug\Csharp_basics(18Aug).exe
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\bin\Debug\Csharp_basics(18Aug).pdb
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\obj\Debug\Csharp_basics(18Aug).csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\obj\Debug\Csharp_basics(18Aug).csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\obj\Debug\Csharp_basics(18Aug).csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\obj\Debug\Csharp_basics(18Aug).exe
+C:\Users\SHYAM SUNDER\source\repos\Csharp_basics(18Aug)\obj\Debug\Csharp_basics(18Aug).pdb
