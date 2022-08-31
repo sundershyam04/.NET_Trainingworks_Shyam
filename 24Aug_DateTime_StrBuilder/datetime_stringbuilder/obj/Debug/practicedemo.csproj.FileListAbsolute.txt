@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\bin\Debug\practicedemo.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\bin\Debug\practicedemo.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\bin\Debug\practicedemo.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\obj\Debug\practicedemo.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\obj\Debug\practicedemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\obj\Debug\practicedemo.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\obj\Debug\practicedemo.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\practicedemo\obj\Debug\practicedemo.pdb

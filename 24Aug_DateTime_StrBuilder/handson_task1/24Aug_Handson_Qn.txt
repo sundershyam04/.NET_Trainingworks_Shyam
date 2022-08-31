@@ -1,0 +1,18 @@
+24 Aug
+
+1)Comparing two strings in C#, whether equal or not?
+
+2)Demonstrate the example of Copy method of String class in C#
+
+3) Demonstrate the example of IndexOf() method of string class in C#
+
+4) String.Split() method of String class in C# with an Example
+consider the following string: 
+Welcome to the world of C# Programming
+Split on (#) character
+
+5) convert string into uppercase in C#
+
+6) create a blank file name it as firstFile.txt
+
+7) display the Day properties (year, month, day, hour, minute, second, millisecond etc.) of todays date

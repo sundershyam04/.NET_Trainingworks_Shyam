@@ -1,0 +1,11 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\bin\Debug\myapp.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\bin\Debug\myapp.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\bin\Debug\myapp.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\obj\Debug\myapp.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\obj\Debug\myapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\obj\Debug\myapp.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\obj\Debug\myapp.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\obj\Debug\myapp.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\bin\Debug\reusablecode.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\bin\Debug\reusablecode.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\handson_task1\myapp\obj\Debug\myapp.csproj.CopyComplete
