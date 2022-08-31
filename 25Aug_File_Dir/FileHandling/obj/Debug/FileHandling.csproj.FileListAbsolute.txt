@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\25Aug\FileHandling\obj\Debug\FileHandling.pdb
