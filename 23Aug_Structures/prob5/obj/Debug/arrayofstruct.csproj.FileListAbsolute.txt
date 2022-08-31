@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\bin\Debug\arrayofstruct.exe.config
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\bin\Debug\arrayofstruct.exe
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\bin\Debug\arrayofstruct.pdb
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\obj\Debug\arrayofstruct.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\obj\Debug\arrayofstruct.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\obj\Debug\arrayofstruct.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\obj\Debug\arrayofstruct.exe
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\arrayofstruct\obj\Debug\arrayofstruct.pdb
