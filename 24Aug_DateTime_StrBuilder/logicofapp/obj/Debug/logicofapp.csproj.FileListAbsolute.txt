@@ -1,0 +1,12 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\logicofapp\bin\Debug\logicofapp.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\logicofapp\bin\Debug\logicofapp.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\logicofapp\obj\Debug\logicofapp.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\logicofapp\obj\Debug\logicofapp.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\logicofapp\obj\Debug\logicofapp.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug\logicofapp\obj\Debug\logicofapp.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug_DateTime_StrBuilder\logicofapp\bin\Debug\logicofapp.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug_DateTime_StrBuilder\logicofapp\bin\Debug\logicofapp.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug_DateTime_StrBuilder\logicofapp\obj\Debug\logicofapp.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug_DateTime_StrBuilder\logicofapp\obj\Debug\logicofapp.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug_DateTime_StrBuilder\logicofapp\obj\Debug\logicofapp.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments\24Aug_DateTime_StrBuilder\logicofapp\obj\Debug\logicofapp.pdb
