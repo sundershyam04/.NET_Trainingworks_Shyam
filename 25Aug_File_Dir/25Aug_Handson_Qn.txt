@@ -1,0 +1,25 @@
+
+3:14 PM 25-Aug-22
+
+1)Create a Text file using FileStream to add, edit, truncate the contents of the file.
+Accept file name from the user.
+
+Use switch case for menu driven program
+
+
+2) Create a file using File Class.
+a) Copy that file to a same folder with different filename.
+b) Copy that file to a different folder as well
+c) Move the file.
+d) Delete a file
+e) Find the extension of the file
+f) Find the creation date time of the file
+g) Find the Directory of the file
+
+3) Create a directory named "Results"
+a) Also create sub directory under it for Results17-18, Results18-19,Results20-21.
+b) Create 2 files under each directory with.
+c) Under the sub-directory, create Monthwise Folder(Jan,Feb, and so on).
+d) Enumerate through directories and sub-directories.
+
+4)C# Program to List All Available Disk Drives
