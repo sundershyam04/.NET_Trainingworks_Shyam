@@ -1,0 +1,11 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\bin\Debug\arrayofobjects.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\bin\Debug\arrayofobjects.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\bin\Debug\arrayofobjects.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\obj\Debug\arrayofobjects.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\obj\Debug\arrayofobjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\obj\Debug\arrayofobjects.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\obj\Debug\arrayofobjects.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\obj\Debug\arrayofobjects.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\bin\Debug\Classdefn.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\bin\Debug\Classdefn.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\Array_of_obj\arrayofobjects\obj\Debug\arrayofobjects.csproj.CopyComplete
