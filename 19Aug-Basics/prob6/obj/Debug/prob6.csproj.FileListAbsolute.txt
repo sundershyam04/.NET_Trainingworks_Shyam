@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\prob6\bin\Debug\prob6.exe.config
+C:\Users\SHYAM SUNDER\source\repos\prob6\bin\Debug\prob6.exe
+C:\Users\SHYAM SUNDER\source\repos\prob6\bin\Debug\prob6.pdb
+C:\Users\SHYAM SUNDER\source\repos\prob6\obj\Debug\prob6.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\prob6\obj\Debug\prob6.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\prob6\obj\Debug\prob6.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\prob6\obj\Debug\prob6.exe
+C:\Users\SHYAM SUNDER\source\repos\prob6\obj\Debug\prob6.pdb

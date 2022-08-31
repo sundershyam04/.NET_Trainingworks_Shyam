@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\prob7\bin\Debug\prob7.exe.config
+C:\Users\SHYAM SUNDER\source\repos\prob7\bin\Debug\prob7.exe
+C:\Users\SHYAM SUNDER\source\repos\prob7\bin\Debug\prob7.pdb
+C:\Users\SHYAM SUNDER\source\repos\prob7\obj\Debug\prob7.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\prob7\obj\Debug\prob7.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\prob7\obj\Debug\prob7.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\prob7\obj\Debug\prob7.exe
+C:\Users\SHYAM SUNDER\source\repos\prob7\obj\Debug\prob7.pdb

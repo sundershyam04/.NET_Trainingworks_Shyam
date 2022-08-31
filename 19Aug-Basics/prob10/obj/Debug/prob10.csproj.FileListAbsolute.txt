@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\prob10\bin\Debug\prob10.exe.config
+C:\Users\SHYAM SUNDER\source\repos\prob10\bin\Debug\prob10.exe
+C:\Users\SHYAM SUNDER\source\repos\prob10\bin\Debug\prob10.pdb
+C:\Users\SHYAM SUNDER\source\repos\prob10\obj\Debug\prob10.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\prob10\obj\Debug\prob10.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\prob10\obj\Debug\prob10.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\prob10\obj\Debug\prob10.exe
+C:\Users\SHYAM SUNDER\source\repos\prob10\obj\Debug\prob10.pdb
