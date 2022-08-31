@@ -1,0 +1,29 @@
+23Aug
+
+1) Method to add 2 nos which have return type as void and call it in Program
+
+2) Method to add 2 nos which have return type as int and call it in Program
+
+3) Create a struct of employee with empno,ename,sal,deptno.
+Create properties for the above 
+
+4) Create a struct of employee with empno,ename,sal,deptno as fields
+and write methods to Accept and Display Data
+=======================================================================
+
+5) Create a struct of employee with empno,ename,sal,deptno and create a array of 4 employees.
+write methods to Accept and Display Data
+========================================================================
+
+
+6) create a enum of deptnames as Purchase=1,Sales=2,Training=3 and Accounts=4.
+Accept deptname as string and display deptnos.
+=====================================
+
+7) Write a program to handle Divide By Zero exception and call the stack trace to get the line number
+=========
+8)  Write a method to handle Divide By Zero exception and call the stack trace to get the line number by calling method in the main
+==================
+9) Write a program to accept employee data using the above structure.
+In the properties, write a validation to check empno and deptno not equal to zero.
+Also write validation for empname should not be null or empty
