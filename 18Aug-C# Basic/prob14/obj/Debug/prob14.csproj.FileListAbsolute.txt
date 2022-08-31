@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\bin\Debug\prob14.exe.config
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\bin\Debug\prob14.exe
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\bin\Debug\prob14.pdb
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\obj\Debug\prob14.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\obj\Debug\prob14.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\obj\Debug\prob14.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\obj\Debug\prob14.exe
+C:\Users\SHYAM SUNDER\source\repos\18Aug-C# Basics\prob14\obj\Debug\prob14.pdb
