@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\bin\Debug\StructDemo.exe.config
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\bin\Debug\StructDemo.exe
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\bin\Debug\StructDemo.pdb
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\obj\Debug\StructDemo.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\obj\Debug\StructDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\obj\Debug\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\obj\Debug\StructDemo.exe
+C:\Users\SHYAM SUNDER\Desktop\Todo\Project1-SL\StructDemo\obj\Debug\StructDemo.pdb
