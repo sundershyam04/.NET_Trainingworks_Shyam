@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\bin\Debug\BasicDemo.exe.config
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\bin\Debug\BasicDemo.exe
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\bin\Debug\BasicDemo.pdb
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\obj\Debug\BasicDemo.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\obj\Debug\BasicDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\obj\Debug\BasicDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\obj\Debug\BasicDemo.exe
+C:\Users\SHYAM SUNDER\source\repos\BasicDemo\obj\Debug\BasicDemo.pdb
