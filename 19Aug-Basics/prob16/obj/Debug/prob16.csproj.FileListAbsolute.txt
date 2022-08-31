@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\source\repos\prob16\bin\Debug\prob16.exe.config
+C:\Users\SHYAM SUNDER\source\repos\prob16\bin\Debug\prob16.exe
+C:\Users\SHYAM SUNDER\source\repos\prob16\bin\Debug\prob16.pdb
+C:\Users\SHYAM SUNDER\source\repos\prob16\obj\Debug\prob16.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\source\repos\prob16\obj\Debug\prob16.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\source\repos\prob16\obj\Debug\prob16.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\source\repos\prob16\obj\Debug\prob16.exe
+C:\Users\SHYAM SUNDER\source\repos\prob16\obj\Debug\prob16.pdb
