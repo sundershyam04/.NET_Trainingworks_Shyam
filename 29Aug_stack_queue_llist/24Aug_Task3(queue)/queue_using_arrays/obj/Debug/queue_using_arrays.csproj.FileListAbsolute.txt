@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\bin\Debug\queue_using_arrays.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\bin\Debug\queue_using_arrays.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\bin\Debug\queue_using_arrays.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\obj\Debug\queue_using_arrays.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\obj\Debug\queue_using_arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\obj\Debug\queue_using_arrays.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\obj\Debug\queue_using_arrays.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\29Aug\24Aug_Task2\queue_using_arrays\obj\Debug\queue_using_arrays.pdb
