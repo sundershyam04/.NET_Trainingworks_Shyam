@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\bin\Debug\dsa_day1.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\bin\Debug\dsa_day1.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\bin\Debug\dsa_day1.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\obj\Debug\dsa_day1.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\obj\Debug\dsa_day1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\obj\Debug\dsa_day1.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\obj\Debug\dsa_day1.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\26Aug_DSA1\dsa_day1\obj\Debug\dsa_day1.pdb
