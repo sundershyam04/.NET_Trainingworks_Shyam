@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS-1", "OOPS-1.csproj", "{BBA5B927-4F91-4E20-9587-F5B172189B42}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7FD78B8F-EDA3-4977-ABF5-B4688E22DE12} = {7FD78B8F-EDA3-4977-ABF5-B4688E22DE12}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOGIC", "..\LOGIC\LOGIC.csproj", "{7FD78B8F-EDA3-4977-ABF5-B4688E22DE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA5B927-4F91-4E20-9587-F5B172189B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA5B927-4F91-4E20-9587-F5B172189B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA5B927-4F91-4E20-9587-F5B172189B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA5B927-4F91-4E20-9587-F5B172189B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FD78B8F-EDA3-4977-ABF5-B4688E22DE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD78B8F-EDA3-4977-ABF5-B4688E22DE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD78B8F-EDA3-4977-ABF5-B4688E22DE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD78B8F-EDA3-4977-ABF5-B4688E22DE12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BABE6D-8597-45CC-AF29-E03243768352}
+	EndGlobalSection
+EndGlobal

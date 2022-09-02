@@ -1,0 +1,11 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\bin\Debug\OOPS-1.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\bin\Debug\OOPS-1.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\bin\Debug\OOPS-1.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\obj\Debug\OOPS-1.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\obj\Debug\OOPS-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\obj\Debug\OOPS-1.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\obj\Debug\OOPS-1.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\obj\Debug\OOPS-1.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\bin\Debug\LOGIC.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\bin\Debug\LOGIC.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\2Sept_probs\OOPS-1\obj\Debug\OOPS-1.csproj.CopyComplete
