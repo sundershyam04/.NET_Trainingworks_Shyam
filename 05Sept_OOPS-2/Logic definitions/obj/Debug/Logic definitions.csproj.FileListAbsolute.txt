@@ -1,0 +1,6 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\05Sept\Logic definitions\bin\Debug\Logic definitions.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\05Sept\Logic definitions\bin\Debug\Logic definitions.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\05Sept\Logic definitions\obj\Debug\Logic definitions.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\05Sept\Logic definitions\obj\Debug\Logic definitions.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\05Sept\Logic definitions\obj\Debug\Logic definitions.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\05Sept\Logic definitions\obj\Debug\Logic definitions.pdb

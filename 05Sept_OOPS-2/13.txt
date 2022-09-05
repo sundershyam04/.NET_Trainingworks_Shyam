@@ -1,0 +1,28 @@
+13) NO, We can't create objects of abstract class and interface
+              =>we can only create objects of the class to which it is inherited.
+
+interface Iracing
+{
+
+void wheeling();
+
+}
+abstract class bikes{
+
+public abstract void accelerate();
+
+}
+
+class Automobiles : bikes,Iracing{
+
+public override void accelerate(){
+
+///body of accelerate function;
+
+}
+public vod wheeling(){
+
+}
+}
+
+so we can create objects of Automobile class but not for abstract class and interfaces
