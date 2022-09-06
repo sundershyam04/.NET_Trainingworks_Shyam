@@ -1,0 +1,13 @@
+3:01 PM 06-Sep-22
+
+1) create a abstract class Person, with a abstract method Work.
+Implment the Person class in multiple classes like Employee,Manager and clerk.
+2) Create a interface IBank with method PrintBalance, CalculateInterest
+3) Create 2 classes Saving and Current.
+Inherit and implement Ibank interface.
+4) Write specific methods in the Saving and current Class to calculateInterest.(saving account interest rate 4 % and current is 2%)
+5)Write extension methods for Saving and Current Account class to 
+Withdraw, taking amt as parameter.
+6)Same ways write extension method for Deposit as well.
+
+7)Write a method to calculate the number of days deposit amt kept in the bank.

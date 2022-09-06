@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\bin\Debug\AccesspecifierdDemo.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\bin\Debug\AccesspecifierdDemo.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\bin\Debug\AccesspecifierdDemo.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\obj\Debug\AccesspecifierDemo.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\obj\Debug\AccesspecifierDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\obj\Debug\AccesspecifierDemo.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\obj\Debug\AccesspecifierdDemo.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\06Sept_OOPS-3\AccesspecifierdDemo\obj\Debug\AccesspecifierdDemo.pdb
