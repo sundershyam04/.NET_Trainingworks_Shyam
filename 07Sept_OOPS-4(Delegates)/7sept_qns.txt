@@ -1,0 +1,12 @@
+3:29 PM 07-Sep-22
+
+1) Find the length of string using Delegate.
+2) accept username as a parameter, and greet the user.
+example:if the parameter value is Anita,
+it should print "Hello "  + Anita
+3) Add,Sub,Multipy 2 nos using Delegate.(Multicast Delegate)
+4) Create a class Product, with Productid and ProductName as properties, and Print the same using Delegates.
+5) Create a employee class, having joiningYear as property
+and  calculateYearsOfService using Delegate.
+6) Concatenate 2 strings using Delegates
+7) First char of string to uppercase using delegates

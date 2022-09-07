@@ -1,0 +1,11 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\obj\Debug\Delegates.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\bin\Debug\Clib_delegates_logic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\bin\Debug\Clib_delegates_logic.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\07Sept_OOPS-4(Delegates)\ConsoleApp1\obj\Debug\Delegates.csproj.CopyComplete
