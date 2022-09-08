@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\bin\Debug\Lamdas.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\bin\Debug\Lamdas.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\bin\Debug\Lamdas.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\obj\Debug\Lamdas.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\obj\Debug\Lamdas.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\obj\Debug\Lamdas.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\obj\Debug\Lamdas.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\Lamdas\obj\Debug\Lamdas.pdb

@@ -1,0 +1,20 @@
+
+2:20 PM 08-Sep-22
+
+create a menu driven program for the following using a class library.
+#1) create a dept class, with deptno,dname and location
+
+#2) Create a class employee, with employee id, empname, deptno, sal,mgr as properties.
+
+#3) the number of employees in each dept, must not exceed 10.
+
+
+#4) create a event, along with delegate to add,(edit OR update ),delete employee 
+from the dept, by accepting empid as parameter.
+
+#5) List all the employees using delegates.
+
+#6) List all the employees reporting to their managers.
+Use Action,Func and Predicate where ever applicable.
+
+#7) userid and login feature

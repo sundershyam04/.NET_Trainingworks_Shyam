@@ -1,0 +1,6 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\HandsOn\Logic\bin\Debug\Logic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\HandsOn\Logic\bin\Debug\Logic.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\HandsOn\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\HandsOn\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\HandsOn\Logic\obj\Debug\Logic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\08Sept_OOPS-5(contd..)\HandsOn\Logic\obj\Debug\Logic.pdb
