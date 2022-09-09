@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\bin\Debug\handson_9sept.exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\bin\Debug\handson_9sept.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\bin\Debug\handson_9sept.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\obj\Debug\handson_9sept.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\obj\Debug\handson_9sept.csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\obj\Debug\handson_9sept.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\obj\Debug\handson_9sept.exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\09Sept_Thread\handson_9sept\obj\Debug\handson_9sept.pdb
