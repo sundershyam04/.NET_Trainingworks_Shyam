@@ -1,0 +1,17 @@
+
+
+
+
+A) Do the following using Reflection
+
+1) create a class library calculator
+2) Create a read and write property number of double type.
+3) add a method cube() & calculate cube using the number property created above
+4) add a method sqrt(double number) & write logic to calculate squareRoot
+
+
+B) Do the following using Custom Attributes
+
+1) create a custom attribute called StereoDisc which has songname,language,lyrics properties.
+2) Apply the above attribute to a class Song
+3) Fetch Custom attributes applied to the class.

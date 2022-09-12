@@ -1,0 +1,12 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\MathsLogic\bin\Debug\MathsLogic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\MathsLogic\bin\Debug\MathsLogic.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\MathsLogic\obj\Debug\MathsLogic.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\MathsLogic\obj\Debug\MathsLogic.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\MathsLogic\obj\Debug\MathsLogic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\MathsLogic\obj\Debug\MathsLogic.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection_Attributes\MathsLogic\bin\Debug\MathsLogic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection_Attributes\MathsLogic\bin\Debug\MathsLogic.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection_Attributes\MathsLogic\obj\Debug\MathsLogic.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection_Attributes\MathsLogic\obj\Debug\MathsLogic.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection_Attributes\MathsLogic\obj\Debug\MathsLogic.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection_Attributes\MathsLogic\obj\Debug\MathsLogic.pdb

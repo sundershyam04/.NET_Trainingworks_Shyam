@@ -1,0 +1,8 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\obj\Debug\Handson_(A).csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\obj\Debug\Handson_(A).csproj.SuggestedBindingRedirects.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\obj\Debug\Handson_(A).csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\bin\Debug\Handson_(A).exe.config
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\bin\Debug\Handson_(A).exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\bin\Debug\Handson_(A).pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\obj\Debug\Handson_(A).exe
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\12Sept_Reflection\Handson_(A)\obj\Debug\Handson_(A).pdb
