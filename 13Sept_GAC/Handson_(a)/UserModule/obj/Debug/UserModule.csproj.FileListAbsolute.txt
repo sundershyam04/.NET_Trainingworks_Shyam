@@ -1,0 +1,6 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson\UserModule\bin\Debug\UserModule.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson\UserModule\bin\Debug\UserModule.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson\UserModule\obj\Debug\UserModule.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson\UserModule\obj\Debug\UserModule.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson\UserModule\obj\Debug\UserModule.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson\UserModule\obj\Debug\UserModule.pdb
