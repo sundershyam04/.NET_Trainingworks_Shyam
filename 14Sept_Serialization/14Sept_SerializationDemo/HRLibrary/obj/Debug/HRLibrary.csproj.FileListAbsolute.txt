@@ -1,0 +1,6 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\14Sept_Serialization\14Sept_SerializationDemo\HRLibrary\bin\Debug\HRLibrary.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\14Sept_Serialization\14Sept_SerializationDemo\HRLibrary\bin\Debug\HRLibrary.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\14Sept_Serialization\14Sept_SerializationDemo\HRLibrary\obj\Debug\HRLibrary.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\14Sept_Serialization\14Sept_SerializationDemo\HRLibrary\obj\Debug\HRLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\14Sept_Serialization\14Sept_SerializationDemo\HRLibrary\obj\Debug\HRLibrary.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\14Sept_Serialization\14Sept_SerializationDemo\HRLibrary\obj\Debug\HRLibrary.pdb
