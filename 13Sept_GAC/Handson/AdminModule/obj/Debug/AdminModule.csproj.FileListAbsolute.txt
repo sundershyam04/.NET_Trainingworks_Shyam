@@ -1,0 +1,9 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\bin\Debug\AdminModule.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\bin\Debug\AdminModule.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\obj\Debug\AdminModule.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\obj\Debug\AdminModule.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\obj\Debug\AdminModule.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\obj\Debug\AdminModule.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\bin\Debug\UserModule.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\bin\Debug\UserModule.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\Handson_(a)\AdminModule\obj\Debug\AdminModule.csproj.CopyComplete
