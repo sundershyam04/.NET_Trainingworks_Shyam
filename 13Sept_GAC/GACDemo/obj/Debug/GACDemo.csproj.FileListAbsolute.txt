@@ -1,8 +1,0 @@
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\bin\Debug\GACDemo.exe.config
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\bin\Debug\GACDemo.exe
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\bin\Debug\GACDemo.pdb
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\obj\Debug\GACDemo.csproj.AssemblyReference.cache
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\obj\Debug\GACDemo.csproj.SuggestedBindingRedirects.cache
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\obj\Debug\GACDemo.csproj.CoreCompileInputs.cache
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\obj\Debug\GACDemo.exe
-C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\13Sept_GAC\GACDemo\obj\Debug\GACDemo.pdb
