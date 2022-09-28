@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="FlipkartshoppingModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="categories">
+          <Key>
+            <PropertyRef Name="categoryid" />
+          </Key>
+          <Property Name="categoryid" Type="int" Nullable="false" />
+          <Property Name="catname" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="customer">
+          <Key>
+            <PropertyRef Name="custid" />
+          </Key>
+          <Property Name="custid" Type="int" Nullable="false" />
+          <Property Name="custname" Type="varchar" MaxLength="20" />
+          <Property Name="city" Type="varchar" MaxLength="20" />
+        </EntityType>
+        <EntityType Name="CustomerProduct">
+          <Key>
+            <PropertyRef Name="Customers_CustId" />
+            <PropertyRef Name="Products_ProdId" />
+          </Key>
+          <Property Name="Customers_CustId" Type="int" Nullable="false" />
+          <Property Name="Products_ProdId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Customers">
+          <Key>
+            <PropertyRef Name="CustId" />
+          </Key>
+          <Property Name="CustId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="CustName" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CustAddress_StreetNo" Type="int" Nullable="false" />
+          <Property Name="CustAddress_StreetName" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CustAddress_BldgNo" Type="int" Nullable="false" />
+          <Property Name="CustAddress_SocietyName" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CustAddress_City" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CustAddress_State" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CustAddress_Country" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="CustAddress_Pincode" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Orders">
+          <Key>
+            <PropertyRef Name="OrderId" />
+          </Key>
+          <Property Name="OrderId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="OrderDate" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Products">
+          <Key>
+            <PropertyRef Name="ProdId" />
+          </Key>
+          <Property Name="ProdId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Prodname" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="UOM" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="Price" Type="float" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SupplierProduct">
+          <Key>
+            <PropertyRef Name="Suppliers_SuppId" />
+            <PropertyRef Name="Products_ProdId" />
+          </Key>
+          <Property Name="Suppliers_SuppId" Type="int" Nullable="false" />
+          <Property Name="Products_ProdId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Suppliers">
+          <Key>
+            <PropertyRef Name="SuppId" />
+          </Key>
+          <Property Name="SuppId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="SuppName" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="SupplierAddress_StreetNo" Type="int" Nullable="false" />
+          <Property Name="SupplierAddress_StreetName" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="SupplierAddress_BldgNo" Type="int" Nullable="false" />
+          <Property Name="SupplierAddress_SocietyName" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="SupplierAddress_City" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="SupplierAddress_State" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="SupplierAddress_Country" Type="nvarchar(max)" Nullable="false" />
+          <Property Name="SupplierAddress_Pincode" Type="nvarchar(max)" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_CustomerProduct_Customer">
+          <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+          <End Role="CustomerProduct" Type="Self.CustomerProduct" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Customers">
+              <PropertyRef Name="CustId" />
+            </Principal>
+            <Dependent Role="CustomerProduct">
+              <PropertyRef Name="Customers_CustId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CustomerProduct_Product">
+          <End Role="Products" Type="Self.Products" Multiplicity="1" />
+          <End Role="CustomerProduct" Type="Self.CustomerProduct" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Products">
+              <PropertyRef Name="ProdId" />
+            </Principal>
+            <Dependent Role="CustomerProduct">
+              <PropertyRef Name="Products_ProdId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_SupplierProduct_Product">
+          <End Role="Products" Type="Self.Products" Multiplicity="1" />
+          <End Role="SupplierProduct" Type="Self.SupplierProduct" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Products">
+              <PropertyRef Name="ProdId" />
+            </Principal>
+            <Dependent Role="SupplierProduct">
+              <PropertyRef Name="Products_ProdId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_SupplierProduct_Supplier">
+          <End Role="Suppliers" Type="Self.Suppliers" Multiplicity="1" />
+          <End Role="SupplierProduct" Type="Self.SupplierProduct" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Suppliers">
+              <PropertyRef Name="SuppId" />
+            </Principal>
+            <Dependent Role="SupplierProduct">
+              <PropertyRef Name="Suppliers_SuppId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Function Name="fn_countCustomers" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+        <Function Name="sp_CustomerDelete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+          <Parameter Name="custid" Type="int" Mode="In" />
+        </Function>
+        <EntityContainer Name="FlipkartshoppingModelStoreContainer">
+          <EntitySet Name="categories" EntityType="Self.categories" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="customer" EntityType="Self.customer" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="CustomerProduct" EntityType="Self.CustomerProduct" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Customers" EntityType="Self.Customers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SupplierProduct" EntityType="Self.SupplierProduct" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Suppliers" EntityType="Self.Suppliers" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_CustomerProduct_Customer" Association="Self.FK_CustomerProduct_Customer">
+            <End Role="Customers" EntitySet="Customers" />
+            <End Role="CustomerProduct" EntitySet="CustomerProduct" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CustomerProduct_Product" Association="Self.FK_CustomerProduct_Product">
+            <End Role="Products" EntitySet="Products" />
+            <End Role="CustomerProduct" EntitySet="CustomerProduct" />
+          </AssociationSet>
+          <AssociationSet Name="FK_SupplierProduct_Product" Association="Self.FK_SupplierProduct_Product">
+            <End Role="Products" EntitySet="Products" />
+            <End Role="SupplierProduct" EntitySet="SupplierProduct" />
+          </AssociationSet>
+          <AssociationSet Name="FK_SupplierProduct_Supplier" Association="Self.FK_SupplierProduct_Supplier">
+            <End Role="Suppliers" EntitySet="Suppliers" />
+            <End Role="SupplierProduct" EntitySet="SupplierProduct" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="FlipkartshoppingModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="category">
+          <Key>
+            <PropertyRef Name="categoryid" />
+          </Key>
+          <Property Name="categoryid" Type="Int32" Nullable="false" />
+          <Property Name="catname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="customer">
+          <Key>
+            <PropertyRef Name="custid" />
+          </Key>
+          <Property Name="custid" Type="Int32" Nullable="false" />
+          <Property Name="custname" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="city" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityType Name="Customer1">
+          <Key>
+            <PropertyRef Name="CustId" />
+          </Key>
+          <Property Name="CustId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CustName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustAddress_StreetNo" Type="Int32" Nullable="false" />
+          <Property Name="CustAddress_StreetName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustAddress_BldgNo" Type="Int32" Nullable="false" />
+          <Property Name="CustAddress_SocietyName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustAddress_City" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustAddress_State" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustAddress_Country" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="CustAddress_Pincode" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Products" Relationship="Self.CustomerProduct" FromRole="Customers" ToRole="Products" />
+        </EntityType>
+        <EntityType Name="Order">
+          <Key>
+            <PropertyRef Name="OrderId" />
+          </Key>
+          <Property Name="OrderId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="OrderDate" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="Product">
+          <Key>
+            <PropertyRef Name="ProdId" />
+          </Key>
+          <Property Name="ProdId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Prodname" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="UOM" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="Price" Type="Double" Nullable="false" />
+          <NavigationProperty Name="Customers" Relationship="Self.CustomerProduct" FromRole="Products" ToRole="Customers" />
+          <NavigationProperty Name="Suppliers" Relationship="Self.SupplierProduct" FromRole="Products" ToRole="Suppliers" />
+        </EntityType>
+        <EntityType Name="Supplier">
+          <Key>
+            <PropertyRef Name="SuppId" />
+          </Key>
+          <Property Name="SuppId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SuppName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SupplierAddress_StreetNo" Type="Int32" Nullable="false" />
+          <Property Name="SupplierAddress_StreetName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SupplierAddress_BldgNo" Type="Int32" Nullable="false" />
+          <Property Name="SupplierAddress_SocietyName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SupplierAddress_City" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SupplierAddress_State" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SupplierAddress_Country" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="SupplierAddress_Pincode" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+          <NavigationProperty Name="Products" Relationship="Self.SupplierProduct" FromRole="Suppliers" ToRole="Products" />
+        </EntityType>
+        <Association Name="CustomerProduct">
+          <End Role="Customers" Type="Self.Customer1" Multiplicity="*" />
+          <End Role="Products" Type="Self.Product" Multiplicity="*" />
+        </Association>
+        <Association Name="SupplierProduct">
+          <End Role="Products" Type="Self.Product" Multiplicity="*" />
+          <End Role="Suppliers" Type="Self.Supplier" Multiplicity="*" />
+        </Association>
+        <EntityContainer Name="FlipkartshoppingEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="categories" EntityType="Self.category" />
+          <EntitySet Name="customers" EntityType="Self.customer" />
+          <EntitySet Name="Customers1" EntityType="Self.Customer1" />
+          <EntitySet Name="Orders" EntityType="Self.Order" />
+          <EntitySet Name="Products" EntityType="Self.Product" />
+          <EntitySet Name="Suppliers" EntityType="Self.Supplier" />
+          <AssociationSet Name="CustomerProduct" Association="Self.CustomerProduct">
+            <End Role="Customers" EntitySet="Customers1" />
+            <End Role="Products" EntitySet="Products" />
+          </AssociationSet>
+          <AssociationSet Name="SupplierProduct" Association="Self.SupplierProduct">
+            <End Role="Products" EntitySet="Products" />
+            <End Role="Suppliers" EntitySet="Suppliers" />
+          </AssociationSet>
+          <FunctionImport Name="sp_CustomerDelete">
+          <Parameter Name="custid" Mode="In" Type="Int32" />
+          </FunctionImport>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="FlipkartshoppingModelStoreContainer" CdmEntityContainer="FlipkartshoppingEntities">
+          <EntitySetMapping Name="categories">
+            <EntityTypeMapping TypeName="FlipkartshoppingModel.category">
+              <MappingFragment StoreEntitySet="categories">
+                <ScalarProperty Name="categoryid" ColumnName="categoryid" />
+                <ScalarProperty Name="catname" ColumnName="catname" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="customers">
+            <EntityTypeMapping TypeName="FlipkartshoppingModel.customer">
+              <MappingFragment StoreEntitySet="customer">
+                <ScalarProperty Name="custid" ColumnName="custid" />
+                <ScalarProperty Name="custname" ColumnName="custname" />
+                <ScalarProperty Name="city" ColumnName="city" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Customers1">
+            <EntityTypeMapping TypeName="FlipkartshoppingModel.Customer1">
+              <MappingFragment StoreEntitySet="Customers">
+                <ScalarProperty Name="CustId" ColumnName="CustId" />
+                <ScalarProperty Name="CustName" ColumnName="CustName" />
+                <ScalarProperty Name="CustAddress_StreetNo" ColumnName="CustAddress_StreetNo" />
+                <ScalarProperty Name="CustAddress_StreetName" ColumnName="CustAddress_StreetName" />
+                <ScalarProperty Name="CustAddress_BldgNo" ColumnName="CustAddress_BldgNo" />
+                <ScalarProperty Name="CustAddress_SocietyName" ColumnName="CustAddress_SocietyName" />
+                <ScalarProperty Name="CustAddress_City" ColumnName="CustAddress_City" />
+                <ScalarProperty Name="CustAddress_State" ColumnName="CustAddress_State" />
+                <ScalarProperty Name="CustAddress_Country" ColumnName="CustAddress_Country" />
+                <ScalarProperty Name="CustAddress_Pincode" ColumnName="CustAddress_Pincode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Orders">
+            <EntityTypeMapping TypeName="FlipkartshoppingModel.Order">
+              <MappingFragment StoreEntitySet="Orders">
+                <ScalarProperty Name="OrderId" ColumnName="OrderId" />
+                <ScalarProperty Name="OrderDate" ColumnName="OrderDate" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Products">
+            <EntityTypeMapping TypeName="FlipkartshoppingModel.Product">
+              <MappingFragment StoreEntitySet="Products">
+                <ScalarProperty Name="ProdId" ColumnName="ProdId" />
+                <ScalarProperty Name="Prodname" ColumnName="Prodname" />
+                <ScalarProperty Name="UOM" ColumnName="UOM" />
+                <ScalarProperty Name="Price" ColumnName="Price" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Suppliers">
+            <EntityTypeMapping TypeName="FlipkartshoppingModel.Supplier">
+              <MappingFragment StoreEntitySet="Suppliers">
+                <ScalarProperty Name="SuppId" ColumnName="SuppId" />
+                <ScalarProperty Name="SuppName" ColumnName="SuppName" />
+                <ScalarProperty Name="SupplierAddress_StreetNo" ColumnName="SupplierAddress_StreetNo" />
+                <ScalarProperty Name="SupplierAddress_StreetName" ColumnName="SupplierAddress_StreetName" />
+                <ScalarProperty Name="SupplierAddress_BldgNo" ColumnName="SupplierAddress_BldgNo" />
+                <ScalarProperty Name="SupplierAddress_SocietyName" ColumnName="SupplierAddress_SocietyName" />
+                <ScalarProperty Name="SupplierAddress_City" ColumnName="SupplierAddress_City" />
+                <ScalarProperty Name="SupplierAddress_State" ColumnName="SupplierAddress_State" />
+                <ScalarProperty Name="SupplierAddress_Country" ColumnName="SupplierAddress_Country" />
+                <ScalarProperty Name="SupplierAddress_Pincode" ColumnName="SupplierAddress_Pincode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <AssociationSetMapping Name="CustomerProduct" TypeName="FlipkartshoppingModel.CustomerProduct" StoreEntitySet="CustomerProduct">
+            <EndProperty Name="Customers">
+              <ScalarProperty Name="CustId" ColumnName="Customers_CustId" />
+            </EndProperty>
+            <EndProperty Name="Products">
+              <ScalarProperty Name="ProdId" ColumnName="Products_ProdId" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <AssociationSetMapping Name="SupplierProduct" TypeName="FlipkartshoppingModel.SupplierProduct" StoreEntitySet="SupplierProduct">
+            <EndProperty Name="Products">
+              <ScalarProperty Name="ProdId" ColumnName="Products_ProdId" />
+            </EndProperty>
+            <EndProperty Name="Suppliers">
+              <ScalarProperty Name="SuppId" ColumnName="Suppliers_SuppId" />
+            </EndProperty>
+          </AssociationSetMapping>
+          <FunctionImportMapping FunctionImportName="sp_CustomerDelete" FunctionName="FlipkartshoppingModel.Store.sp_CustomerDelete" />
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
