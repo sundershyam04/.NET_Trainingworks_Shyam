@@ -1,0 +1,31 @@
+﻿alter procedure sp_callfun
+as 
+begin
+SELECT [dbo].[fn_countCustomers] ()
+end
+
+
+exec [dbo].[sp_callfun]
+
+
+
+
+CREATE FUNCTION fn_countCustomers
+(
+	
+)
+RETURNS int
+AS
+BEGIN
+	-- Declare the return variable here
+	DECLARE  @cnt int
+
+	-- Add the T-SQL statements to compute the return value here
+	SELECT @cnt=count(*) from customer
+
+	-- Return the result of the function
+	RETURN @cnt
+
+END
+GO
+
