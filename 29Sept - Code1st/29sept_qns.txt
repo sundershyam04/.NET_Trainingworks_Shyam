@@ -1,0 +1,24 @@
+4:52 PM 29-Sep-22
+
+1) Do code first approach with a bank domain:
+1) Class Borrower
+{
+borrowerid --PK
+borr_name
+city
+state 
+country
+street
+companyname
+jobname
+}
+2) Class Loan
+{
+LoanID---PK
+LoanType
+Amt
+Duration
+RateofInterest
+}
+------------------------------------
+Do the same with ModelFirst Approach
