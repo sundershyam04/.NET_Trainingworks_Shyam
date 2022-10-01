@@ -1,0 +1,6 @@
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\Phase3\26Sept\CRUD demo\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\Phase3\26Sept\CRUD demo\BusinessLogicLayerLibrary\bin\Debug\BusinessLogicLayerLibrary.pdb
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\Phase3\26Sept\CRUD demo\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.AssemblyReference.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\Phase3\26Sept\CRUD demo\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\Phase3\26Sept\CRUD demo\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.dll
+C:\Users\SHYAM SUNDER\Desktop\HandsOn .NET\handon_assignments©\Phase3\26Sept\CRUD demo\BusinessLogicLayerLibrary\obj\Debug\BusinessLogicLayerLibrary.pdb
