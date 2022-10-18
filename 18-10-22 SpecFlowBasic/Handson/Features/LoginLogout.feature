@@ -1,4 +1,5 @@
-﻿Feature: LoginLogout
+﻿Feature: LoginLogout-ProductCartValidate
+ 
 In order to access my account
     As a user of the website
    I want to log into the website
