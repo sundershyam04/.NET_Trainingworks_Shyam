@@ -1,0 +1,6 @@
+E:\C#\UnitTestingHandson\bin\Debug\UnitTestingHandson.dll
+E:\C#\UnitTestingHandson\bin\Debug\UnitTestingHandson.pdb
+E:\C#\UnitTestingHandson\obj\Debug\UnitTestingHandson.csproj.AssemblyReference.cache
+E:\C#\UnitTestingHandson\obj\Debug\UnitTestingHandson.csproj.CoreCompileInputs.cache
+E:\C#\UnitTestingHandson\obj\Debug\UnitTestingHandson.dll
+E:\C#\UnitTestingHandson\obj\Debug\UnitTestingHandson.pdb
